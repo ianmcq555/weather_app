@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://cdn.wallpapersafari.com/83/9/yjKuOQ.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.titleHeader {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.subHeader {
+    display: flex;
+    justify-content: center;
+    color: cadetblue;
+    padding: 5px;
+}
+
+.nPut {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.form-control {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+button{
+    cursor:pointer;
+}
+
+.subButton {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.clearButton {
+    display: flex;
+    justify-content: center;
+}
+
+.output {
+    display: flex;
+    justify-content: center;
+}
+.card{
+    background-color: rgb(117, 102, 227);
+    padding: 20px;
+}
+
+#cityOutput {
+    font-size: x-large;
+}
